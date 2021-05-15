@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seats1people.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="seat 1 bop0000" x="0" y="0" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0001" x="0" y="0" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0002" x="0" y="599" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0003" x="0" y="1198" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0004" x="0" y="1198" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0005" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0006" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0007" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0008" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0009" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0010" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0011" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0012" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0013" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0014" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0015" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0016" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0017" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0018" x="0" y="1797" width="2508" height="599"/>
+	<SubTexture name="seat 1 bop0019" x="0" y="1797" width="2508" height="599"/>
+</TextureAtlas>
